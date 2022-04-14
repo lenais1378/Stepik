@@ -26,6 +26,6 @@ public class Arrays {
         }
 
 
-
+        return a3;
     }
 }
